@@ -1,0 +1,16 @@
+LICENSE
+MANIFEST.in
+README.md
+requirements.txt
+setup.cfg
+setup.py
+sm_minimal/__init__.py
+sm_minimal/_function.py
+sm_minimal/_tests/__init__.py
+sm_minimal/_tests/test_function.py
+smart_microscopy_minimal.egg-info/PKG-INFO
+smart_microscopy_minimal.egg-info/SOURCES.txt
+smart_microscopy_minimal.egg-info/dependency_links.txt
+smart_microscopy_minimal.egg-info/entry_points.txt
+smart_microscopy_minimal.egg-info/requires.txt
+smart_microscopy_minimal.egg-info/top_level.txt

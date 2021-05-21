@@ -1,0 +1,3 @@
+[napari.plugin]
+smart_microscopy_minimal = sm_minimal
+
